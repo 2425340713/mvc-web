@@ -1,0 +1,270 @@
+.red { color: #f72e1e; font-weight: normal; }
+.org { color: #e70 }
+.public-showbox { width: 360px; margin: 30px auto; color: #333 }
+.public-showbox ul li { width: 100%; display: table; margin-bottom: 5px;}
+.public-showbox .show-title { width: 100%; font: bold 14px/40px "Microsoft YaHei";  }
+.public-showbox .input-showbox { width: 100%; }
+.public-showbox .box-txt,.public-box6 .box-txt { border: 1px solid #c9c9c9; -webkit-border-radius: 2px; -moz-border-radius: 2px; -ms-border-radius: 2px; -o-border-radius: 2px; border-radius: 2px; padding: 2px 4px; width: 98%;}
+.public-showbox .box-txt:focus { outline: none; border-color: #e70 }
+.textearebox { height: 160px; }
+.text-txt { height: 40px; line-height: 40px; }
+.public-showbox .btn-org-l { width: 100%; height: 40px; font-size: 16px; margin-top: 20px; }
+
+.public-showbox2 { width: 300px; margin: 40px auto; text-align: center; }
+.public-showbox2 p { font-size: 16px; color: #333 }
+.public-showbox2 .showbox-btn, .show-order .showbox-btn, .public-box5 .showbox-btn { width: 100%; margin-top: 10px; display: table; }
+.public-showbox2 .showbox-btn a, .show-order .showbox-btn a,.public-box5 .showbox-btn a { height: 36px; line-height: 36px; margin: 6px 6px 0; padding: 0 30px; border: 1px solid #dedede; background-color: #f1f1f1; color: #333; border-radius: 2px; font-weight: 400; cursor: pointer; text-decoration: none; display: inline-block; vertical-align: top; background: #fff} 
+
+.public-showbox2 .showbox-btn button, .show-order .showbox-btn button,.public-box5 .showbox-btn button { height: 36px; line-height: 36px; margin: 6px 6px 0; padding: 0 30px; border: 1px solid #dedede; background-color: #f1f1f1; color: #333; border-radius: 2px; font-weight: 400; cursor: pointer; text-decoration: none; display: inline-block; vertical-align: top; background: #fff} 
+.public-showbox2 .showbox-btn a:hover, .show-order .showbox-btn a:hover,.public-box5 .showbox-btn a:hover { background: #f1f1f1 }
+.public-showbox2 .showbox-btn .showbox-btn1, .show-order .showbox-btn .showbox-btn1,.public-box5 .showbox-btn .showbox-btn1 { color: #ef7700; border-color: #f8d1a8; background: #fef5ec}
+.public-showbox2 .showbox-btn button:hover, .show-order .showbox-btn button:hover,.public-box5 .showbox-btn button:hover { background: #f1f1f1 }
+.public-showbox2 .showbox-btn .showbox-btn1, .show-order .showbox-btn .showbox-btn1,.public-box5 .showbox-btn .showbox-btn1 { color: #ef7700; border-color: #f8d1a8; background: #fef5ec}
+
+.public-showbox2 .showbox-btn .showbox-btn1:hover, .show-order .showbox-btn .showbox-btn1:hover,.public-box5 .showbox-btn .showbox-btn1:hover { background: #f9e8d7 }
+.public-box5 .showbox-btn .showbox-btn2 { background: #e70; border: 1px solid #e70; color: #fff; }
+.public-box5 .showbox-btn .showbox-btn2:hover { background: #db6d00; color: #fff; border: 1px solid #db6d00 }
+.public-showbox2 .rightbox ul li { text-align: left; margin-bottom: 5px;}
+.public-showbox2 .textbox { width: 130px; border: 1px solid #ccc; line-height: 24px; height: 24px; color: #333; -webkit-border-radius: 2px; -moz-border-radius: 2px; -ms-border-radius: 2px; -o-border-radius: 2px; border-radius: 2px; padding: 2px 4px; }
+.login-showbox { width: 100%; display: table; }
+.login-showbox-top { width: 320px;  margin: 0 auto; }
+.login-showbox-top h3.login-title { color: #e70; font: bold 24px/40px "Microsoft YaHei"; border-bottom: 1px solid #e7e7e7; margin-bottom: 40px; margin-top: 20px; padding-bottom: 5px; }
+.login-showbox ul li { width: 100%; display: table; margin-bottom: 20px; }
+.login-showbox .inputbox { width: 260px; padding-left: 60px; border: 1px solid #cbcbcb; height: 42px; line-height: 42px; -webkit-box-shadow: 2px 2px 2px #eee inset; box-shadow: 2px 2px 2px #eee inset; -webkit-border-radius: 2px; -moz-border-radius: 2px; -ms-border-radius: 2px; -o-border-radius: 2px; border-radius: 2px; }
+.login-showbox .inputbox:focus { outline: none; border-color: #e70 }
+.input-user { background:#fbfbfb url(../images/new/icon-user-new.png) 15px center no-repeat; }
+.input-password { background:#fbfbfb url(../images/new/icon-password-new.png) 15px center no-repeat; }
+.btn-login { width: 100%; text-align: center; font-size: 16px; line-height: 34px; }
+.login-others { background: #F6F6F6; border-top: 1px solid #e9e9e9; padding: 12px 24px; width: 342px; margin: 0 auto; display: table; overflow: hidden; margin-top: 40px;}
+.login-others .login-qq { background: url(../images/new/icon-qq-new.png) left center no-repeat; padding-left: 24px; color: #666 }
+.login-others .free-reg { background: url(../images/new/icon-circle-right.png) left center no-repeat; padding-left: 24px; color: #e70 }
+.login-others a:hover { color: #e70; text-decoration: underline; }
+
+
+.show-order { width: 500px; margin:20px auto; }
+.show-order ul li { width: 100%; display: table; margin-bottom: 10px;}
+.show-order ul li .showleft {margin-right: 10px; line-height: 30px; font-size: 14px; color: #333; width: 80px; text-align: right; float: left;}
+.show-order ul li .inputbox { width: 380px; float: left; }
+.show-order ul li .inputbox .textbox { border: 1px solid #c9c9c9; -webkit-border-radius: 2px; -moz-border-radius: 2px; -ms-border-radius: 2px; -o-border-radius: 2px; border-radius: 2px; padding: 2px 4px; width: 98%;  height: 32px; line-height: 32px;}
+.show-order ul li .inputbox .textbox:focus { outline: none; border-color: #e70 }
+.show-order ul li .select { width: 120px; padding: 8px 0 ; float: left; margin-right: 10px;}
+.show-order ul li .select:last-child { margin-right: 0px; }
+.show-order .btn-l { width: 100%; line-height: 32px; }
+.show-order .showbox-btn { width: 100%; text-align: center; }
+
+
+.public-loginbox3 { width: 300px; padding:0; background: #fff; position: relative;  overflow: hidden ; margin: 0 auto}
+.public-loginbox3 .login3-title { font-size: 18px; line-height: 49px; height: 49px; color: #787d82; border-bottom: 1px solid #dfdfdf; }
+.public-loginbox3 .login3-title ul li {  text-align: center; display: inline-block;}
+.public-loginbox3 .login3-title ul li span { height: 48px; line-height: 49px; cursor: pointer; display: inline-block; font-size: 18px; padding: 0 20px }
+.public-loginbox3 .login3-title ul li.active span, .public-loginbox3 .login3-title ul li:hover span{ border-bottom: 2px solid #ee7700; color: #ee7700;}
+
+.public-loginbox3 .login3-box { width: 262px; margin: 0 auto;display: table; padding: 20px 0 }
+.public-loginbox3 .inputbox { width: 100%; display: table; position: relative; }
+.public-loginbox3 .login3-box ul li ,.public-loginbox3 .login3-reg ul li{ width: 100%; padding-bottom: 20px; position: relative; }
+.public-loginbox3 .textbox3 { width: 262px!important; height: 38px!important; line-height: 38px!important;  border: 1px solid #ddd; padding: 2px 10px; color: #333;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box; }
+.public-loginbox3 .textbox3:focus { border: 1px solid #e70; outline: none; }
+.public-loginbox3 .textbox4 {  border: none; padding: 2px 10px; height: 36px;  color: #333; position: absolute; right: 1px; top: 1px; background: #f4f4f4; color: #666; cursor: pointer;}
+.public-loginbox3 .textbox4:focus { border: none; outline: none; background: #eaeaea; color: #999  }
+
+
+.public-loginbox3 .textbox5 { width: 110px; border: 1px solid #ddd; padding: 2px 10px; height: 38px; line-height: 38px; color: #333;float: left;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box; }
+.public-loginbox3 .textbox5:focus { border: 1px solid #e70; outline: none; }
+
+.public-loginbox3 .stxt,.public-loginbox3 .stxt-s { position: absolute; bottom: 0; font: normal 12px/18px "Microsoft YaHei"; color: #fa1823; padding-left: 4px; }
+.public-loginbox3 .forget { position: absolute; right: 0; bottom: -5px; font: normal 14px/18px "Microsoft YaHei"; color: #999 }
+.public-loginbox3 .forget:hover { color: #e70 }
+
+.public-loginbox3 .last { width: 100%; text-align: center; margin-top: 30px; }
+.public-loginbox3 .btn-org2 { width:100%; background: #e70; color: #fff; font: normal 16px/32px "Microsoft YaHei"; cursor: pointer; padding: 2px 0; border-radius: 0; }
+.public-loginbox3 .btn-org2:hover { background: #dd6e00 }
+
+.public-loginbox3 .login-close,.public-box4 .login-close { width:15px; height: 15px; position: absolute; top: 20px; right: 20px;  }
+i.icon-close-s { width: 15px; height: 15px; cursor: pointer; display: block; background: url(../images/new/icon-gb.png); }
+i.icon-close-s:hover { width: 15px; height: 15px; cursor: pointer; display: block; background: url(../images/new/icon-gb-l.png); }
+
+.public-loginbox3 .login3-others { width: 262px;  display: table; margin: 0 auto;  text-align: center;}
+.public-loginbox3 .login3-others h3 { text-align: center; position: relative;  border-bottom: 1px solid #ddd;}
+.public-loginbox3 .login3-others h3 span { background: #fff; display: inline-block; padding: 4px; color: #999; position: absolute; top: -18px; left: 64px }
+
+.login3-others a { display: inline-block; color: #a0a0a0; margin:20px 10px; padding-left:35px; font:normal 14px/32px "Microsoft YaHei"; height: 32px;}
+.login3-others a.login-qq { background: url(../images/new/icon-qq3.png) left center no-repeat; }
+.login3-others a.login-qq:hover { background: url(../images/new/icon-qq3-l.png) left center no-repeat; }
+.login3-others a.login-wx { background: url(../images/new/icon-wx3.png) left center no-repeat; }
+.login3-others a.login-wx:hover { background: url(../images/new/icon-wx3-l.png) left center no-repeat; }
+.login3-others a:hover { color: #e70 }
+
+.public-loginbox3 .login3-reg { width: 262px; margin: 0 auto;display: table; padding: 20px 0 }
+.public-box4 { width: 450px; position: relative; }
+.public-box4 .login-close { top: 15px }
+.public-box4 .stitle { border-bottom: 1px solid #ddd; line-height: 40px; height: 40px; color: #333; padding-left: 10px; }
+.public-box4 .box4-text { width: 410px; margin: 20px auto; color: #333 }
+.public-box4 .mybtn { width: 100%; text-align: center; margin: 20px auto; }
+.btn-org3 {  background: #e70; color: #fff; font: normal 16px/32px "Microsoft YaHei"; cursor: pointer; padding: 2px 50px; display: inline-block; }
+.btn-org3:hover { background: #f07700 }
+
+
+.public-cut { width: 720px;  margin: 20px auto; clear: both; }
+.public-cut h4 { margin-bottom: 10px; }
+.public-cut-left { width: 370px; border-right: 1px solid #ccc;}
+.public-cut-left .public-cut-box { width: 350px; height: 350px; border: 1px solid #ccc;   display: table-cell; vertical-align: middle; text-align: center; background: #fbfbfb;}
+.public-cut-left img { width: 100%; }
+.public-cut-right { margin-left: 20px; width: 320px; margin-top: 30px; }
+.public-cut-right .cut-pic { width: 320px; }
+.public-cut-right .cut-pic img { width: 100% }
+.public-cut .mybtns { width: 100%; display: table; text-align: left; margin-top: 20px; text-align: right;  }
+.public-cut .btn-org2 { background: #e70; color: #fff;  border: 1px solid #e70; display: inline-block; -webkit-border-radius: 4px; -moz-border-radius: 4px; -ms-border-radius: 4px; -o-border-radius: 4px; border-radius: 4px; cursor: pointer;}
+.public-cut .btn-org2:hover { background: #dc6e00 }
+.public-cut .btn3 { background: #fef5ec; border: 1px solid #f8d1a8; color: #e70;padding: 4px 10px; min-width: 118px; }
+.public-cut .btn3:hover { background: #ffe8d0 }
+.public-cut .btn4 { background: #fff; border: 1px solid #e8e8e8; color: #999;padding: 4px 10px; min-width: 118px; }
+.public-cut .btn4:hover { background: #f6f6f6; border: 1px solid #d1d1d1; }
+.public-cut .btn2 { padding: 4px 10px; min-width: 118px; text-align: center;}
+.public-cut .disabled { background: #ececec; cursor: default; color: #c9c9c9; border: none; }
+.public-cut .disabled:hover { background: #ececec; border:none; }
+
+
+.public-box5 { width: 780px; padding: 20px; }
+.public-box5 .public-box5-left { width: 226px; text-align: center; }
+.public-box5 .public-box5-left .pic { width: 226px; height: 226px;  border: 1px solid #eee;}
+.public-box5 .public-box5-left .pic img { width: 100%; }
+.public-box5 .public-box5-right { width: 536px; }
+.public-box5 .public-box5-right .textareabox { width: 99%; border:1px solid #dddddd; height: 60px }
+.public-box5 .public-box5-right .textareabox:focus { outline: none; border-color: #e70; }
+.public-box5 .public-box5-right h4 { font: normal 16px/30px "Microsoft YaHei"; color: #333  }
+.public-box5 .public-box5-right .addbox { width: 100%; }
+.public-box5 .public-box5-right .getIptNames { width: 388px; border: 1px solid #ddd;height: 34px; line-height: 34px; margin-left: 0; -webkit-border-radius: 0; -moz-border-radius: 0; -ms-border-radius: 0; -o-border-radius: 0; border-radius: 0;}
+.public-box5 .public-box5-right .CkaddTj { background: #ddd; color: #666; padding: 4px 30px; -webkit-border-radius: 0; -moz-border-radius: 0; -ms-border-radius: 0; -o-border-radius: 0; border-radius: 0; }
+.public-box5 .public-box5-right .create { width: 100%; display: table; }
+.public-box5 .public-box5-right .create  .showbox-btn { text-align: center; }
+.public-box5 .createbox { width: 100%; /*height: 100px;*/ }
+.public-box5 .public-txt { width: 100%; display: table; color: #666; border-top: 1px solid #ddd; padding-top: 15px; margin-top: 15px; float: left; }
+.public-box5 .public-txt h4 { color: #333; font-size: 16px; }
+
+.public-box6 { width: 250px; margin:10px auto;  text-align: center;}
+.public-box6 .btn { width: 90px; text-align: center; margin-top: 20px;}
+.public-box6 .box-txt { width: 168px }
+
+.public-showbox10 { width: 620px; margin: 30px auto; color: #666}
+.public-showbox10 .spicbox { width: 100%; margin-top: 20px; display: table; }
+.public-showbox10 .spicbox li { float: left; text-align: center;  width:25%; }
+.public-showbox10 .spicbox li .txt { display:block;word-break: break-all;word-wrap: break-word;overflow: hidden; width: 125px; margin: 10px auto;}
+.public-showbox10 .showbox-btn { width: 100%; text-align: center; margin-top: 20px;}
+.public-showbox10 .showbox-btn a { padding: 4px 35px; }
+
+.public-showbox11 { width: 670px; margin: 0 auto; background: #fff; padding: 20px 0; }
+.public-showbox11 .steps { width: 100%; margin-bottom: 10px; display: table; }
+.public-showbox11 .steps ul li { float: left; position: relative; width: 223px; background: #b5b5b5; color: #fff; text-align: center; height: 32px; line-height: 32px; }
+.public-showbox11 .steps ul li:before { content: ""; width: 0; height: 0; position: absolute; border: 24px solid transparent; border-left: 24px solid #fff; right: -48px; top: -8px; z-index: 1}
+.public-showbox11 .steps ul li:after {content: ""; width: 0; height: 0; position: absolute; border:16px solid transparent; border-left: 16px solid #b5b5b5; right: -32px ; top: 0px; z-index: 2}
+.public-showbox11 .steps ul li.active { background: #07a8ef; }
+.public-showbox11 .steps ul li.active:after { border-left: 16px solid #07a8ef;  }
+
+.cutbox { width: 660px; height: 368px; background: #fff; border: 1px solid #eee; margin: 0 auto }
+.public-showbox11 .showbox-btn { width: 670px; text-align: center; position: absolute;  bottom: 40px; }
+.public-showbox11 .showbox-btn .btn { width: 100px; text-align: center; padding: 4px 0; margin: 0 5px }
+.showbox-btn .btn-org-b { border: 1px solid #f9d1a8; background: #fef5ec; color: #ee7700 }
+.showbox-btn .btn-org-b:hover { background: #ffead5 }
+
+
+.cutbox2 { width: 100%; display: table; margin-top: 20px;}
+.cutbox2 .cut-left { width: 245px; border: 1px solid #eee; display: table-cell; vertical-align: middle; text-align: center; margin-top: 10px; } 
+.cutbox2 .cut-left img { max-width: 100% }
+.cutbox2 .cut-right { width: 390px; }
+.cutbox2 h3 { font: normal 16px/32px "Microsoft YaHei" }
+.cutbox2 .text { width: 378px; padding:4px; height: 230px; border: 1px solid #eee ; color: #333 }
+.cutbox2 .stxt-fr { margin-right: 20px; color: #999 }
+.cutbox4 .getIptNames { width: 520px; height: 42px; color: #333; line-height: 42px; float: left; margin: 0!important; }
+.cutbox4 .CkaddTj { height: 42px; line-height: 42px; padding: 0 30px; float: left; display: inline-block; margin-left: 10px; font-size: 16px;}
+.cutbox4 .addbox { width: 100%; display: table; margin: 10px 0 }
+
+
+.public-showbox11 .steps ul .last:after { border-left: none!important }
+
+.public-box9 { width: 540px; margin: 10px auto; } 
+.public-box9 h3 { font: normal 24px/40px "Microsoft YaHei"; text-align: center; margin-bottom: 30px; }
+.public-box9 .pic { width: 100%; margin: 0 auto; text-align: center; }
+.public-box9 .pic span { display: block; margin-top: 10px; }
+.public-box9 .inputbox { width: 100%; display: table; margin-top: 20px; }
+.public-box9 .inputbox .text { width: 340px; }
+.public-box9 .inputbox span { line-height: 36px; }
+.public-box9 .textbox { border: 1px solid #ccc; line-height: 30px; height: 35px; width: 100%; padding: 2px 4px; }
+.public-box9 .btn-org { padding: 8px 20px; }
+
+
+.public-scbox { width: 460px; display: table; margin: 20px auto;}
+.public-scbox .scbox { width: 100%; max-height: 320px; overflow-y: scroll; }
+.public-scbox .scbox ul li { width: 100%; display: table; margin-bottom: 6px; padding: 4px 0; }
+.public-scbox .scbox ul li:hover { background: #f8f7f7; }
+.public-scbox .scbox ul li label { cursor: pointer; color: #666; display: block; width: 100%; font-size: 14px; }
+.public-scbox .scbox ul li input { margin-right: 4px}
+.public-scbox .scbox ul li.active label { color: #e70;}
+
+/*å®šä¹‰æ»šåŠ¨æ¡å®½é«˜åŠèƒŒæ™¯ï¼Œå®½é«˜åˆ†åˆ«å¯¹åº”æ¨ªç«–æ»šåŠ¨æ¡çš„å°ºå¯¸*/
+.scroll-style::-webkit-scrollbar{
+    width: 6px;
+    height: 6px;
+    background-color: #f5f5f5;
+}
+/*å®šä¹‰æ»šåŠ¨æ¡çš„è½¨é“ï¼Œå†…é˜´å½±åŠåœ†è§’*/
+.scroll-style::-webkit-scrollbar-track{
+/*    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);*/
+    border-radius: 10px;
+    background-color: #f5f5f5;
+}
+/*å®šä¹‰æ»‘å—ï¼Œå†…é˜´å½±åŠåœ†è§’*/
+.scroll-style::-webkit-scrollbar-thumb{
+    /*width: 10px;*/
+    height: 20px;
+    border-radius: 10px;
+/*    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);*/
+    background-color: #b5b5b5;
+}
+
+.myinputbox { width: 100%; display: table; margin: 15px 0}
+.myinputbox .btn-org-b { border: 1px solid #f8d0a7; background: #fef5ec; color: #e70; cursor: pointer; padding: 4px 20px; }
+.myinputbox .btn-org-b:hover { background: #ffeedd;}
+.myinputbox .text-txt { -webkit-border-radius: 4px; -moz-border-radius: 4px; -ms-border-radius: 4px; -o-border-radius: 4px; border-radius: 4px; border: 1px solid #dbdbdb; float: left; padding: 4px 8px; height: 24px; line-height: 24px; width: 295px;margin-right: 5px  }
+.public-buttons { width: 100%; text-align: center; margin: 10px 0; }
+.public-buttons .btn { padding: 4px 40px}
+
+.pbulic-active-box { width: 100%; height: 100%; color: #fe3c3d}
+.pbulic-active { width: 554px; height: 502px; background: url(../images/active-bg-box.png) left top no-repeat;position: fixed; left: 50%; top: 50%; margin-left: -277px; margin-top: -251px; z-index: 999999999; }
+.pbulic-active .active-box { padding-top: 185px; width: 350px; height: 317px; margin: 0 auto; position: relative; }
+.pbulic-active .active-box .active-close { width:34px; height: 34px;position: absolute; right: -120px; top:42px; cursor: pointer;  }
+.pbulic-active .active-box .active-close .close-active { width: 100%; height: 100%; display: block; background: url(../images/active-close-b.png) center no-repeat;}
+.pbulic-active h3 { font:bold 30px/32px "Microsoft YaHei"; text-align: center; margin-bottom: 10px; }
+.pbulic-active h4 { font:bold 20px/32px "Microsoft YaHei"; text-align: center; margin-bottom: 20px}
+.pbulic-active ul { margin-left: 20px;}
+.pbulic-active ul li { width: 100%; display: table; margin-bottom: 10px; font-size: 16px}
+.pbulic-active ul li span { font-weight: bold; margin-right: 10px;}
+.pbulic-active-bg { width: 100%; height: 100%; background: rgba(0,0,0,.3); z-index: 99999999; position: fixed; top: 0; left: 0;}
+
+.active-btn { width: 100%; text-align: center; margin-top: 30px;}
+.active-btn .btn-red-b { font-size: 20px; color: #fff601; background: #fe3f41; -webkit-border-radius: 20px; -moz-border-radius: 20px; -ms-border-radius: 20px; -o-border-radius: 20px; border-radius: 20px; border: none; display: inline-block; padding: 6px 45px 8px; }
+.active-btn .btn-red-b:hover { background: #f41e1f}
+
+
+
+.agreement-showbox { width: 440px; height: 470px; padding:15px 30px; margin: 0 auto; background: #fff}
+.agreement-showbox h3 { font:normal 18px/32px "Microsoft YaHei"; text-align: center; margin-bottom: 10px}
+.agreement-showbox .agreement { width: 418px; padding: 5px 10px; border: 1px solid #e8e8e8; background: #f5f5f5; color: #666; height: 310px; overflow-y: scroll; word-break: break-all;word-wrap: break-word;}
+.agreement-showbox .agreement h4 { font: bold 14px/30px "Microsoft YaHei"}
+.agreement-showbox .showbox-btn { width: 100%; text-align: center; margin-top: 10px; margin-bottom: 30px; }
+.agreement-showbox .showbox-btn .btn { padding: 5px 40px; margin: 0 4px}
+.agreement-showbox .myradio { cursor: pointer; color: #999; margin-top: 10px}
+
+.pbulic-active600 { width: 600px; height: 400px; background: url(../images/gqcz-pic.jpg); margin: 30px auto;}
+.pbulic-active600 .countdow { width: 100%; text-align: center; padding-top: 258px; font: bold 24px/30px "Microsoft YaHei" }
+.pbulic-active600 .countdow .time { background: #000; color: #fff; display: inline-block; -webkit-border-radius: 4px; -moz-border-radius: 4px; -ms-border-radius: 4px; -o-border-radius: 4px; border-radius: 4px; min-width: 45px; text-align: center; margin: 0 4px; }
+
+.pbulic-active600 .close { width: 32px; height: 32px; position: absolute; top: 5px; right: 0px }
+.pbulic-active600 .close i,.pbulic-active11 .close i { width: 32px; height: 32px; display: block; background: url(../images/icon-close-w.png) no-repeat; cursor: pointer; }
+
+.btn-ljqg { margin: 50px auto 0; display: inline-block; -webkit-border-radius: 40px; -moz-border-radius: 40px; -ms-border-radius: 40px; -o-border-radius: 40px; border-radius: 40px; color: #fff; font: bold 16px/30px "Microsoft YaHei"; border: 4px solid #fff; background: #d33333; padding: 4px 40px; cursor: pointer;}
+.btn-ljqg:hover { background: #be0000; color: #fff}
+.liqg { width: 100%; text-align: center;}
+
+.pbulic-active11 { width: 640px; height: 500px; position: relative;}
+.pbulic-active11 a { width: 100%; height: 100%; display: block; background: url(../images/active-11.png) no-repeat;}
+.pbulic-active11 .close { position: absolute; right: 0; top: 0; cursor: pointer; width: 32px; height: 32px; }
